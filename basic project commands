@@ -1,0 +1,4 @@
+1. npm create vite@latest tic-tac-toe -- --template react
+2. cd tic-tac-toe
+3. npm install -D tailwindcss postcss autoprefixer
+4. npx tailwindcss init -p
